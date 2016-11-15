@@ -2,3 +2,5 @@
 - feature-A
 
 - fixB master
+
+- feature-C
